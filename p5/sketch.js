@@ -22,6 +22,7 @@ function getColor(val, shift) {
 }
 
 function sevenSegment(val) {
+//teste
   push();
   noStroke();
   noFill();
